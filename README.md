@@ -8,3 +8,7 @@
 2. LiveData -> StateFlow 로 이전
 3. 앱 아키텍쳐 가이드에 따른 설계
 4. Jetpack 사용
+
+
+## 2 LiveData -> StateFlow 로 이전
+https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb
