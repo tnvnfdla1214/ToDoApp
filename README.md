@@ -8,4 +8,3 @@
 2. LiveData -> StateFlow 로 이전
 3. 앱 아키텍쳐 가이드에 따른 설계
 4. Jetpack 사용
-  1. DataBinding 사용
